@@ -18,6 +18,7 @@
 <p align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mudassirraza912&show_icons=true&theme=tokyonight" />     
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassirraza912&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mudassirraza912&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
 
 
