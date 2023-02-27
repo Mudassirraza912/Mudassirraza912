@@ -1,6 +1,9 @@
 ## Hey <img src="./src/gifs/hi.gif" width="29">, I'm [Mudassir Raza](https://mudassirraza.com/), Great to see you here! 
 
-![](https://komarev.com/ghpvc/?username=Mudassirraza912)
+<!-- ![](https://komarev.com/ghpvc/?username=Mudassirraza912) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Mudassirraza912&label=Profile%20Views&color=1&pretty=true" />
+</a>
 
 
 
